@@ -9,7 +9,8 @@
 10種類のものを分類できるモデルや、2種類しか分類できないモデルなど様々用意しており、  
 様々なレベルのモデルを活かしてます。
 
-# Demo
+# Capture
+![image_quiz](https://user-images.githubusercontent.com/39453720/46592207-7d255200-cafb-11e8-9650-562a330b22be.png)
 
 # Requirement
 
