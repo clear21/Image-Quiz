@@ -11,7 +11,3 @@
 
 # Capture
 ![image_quiz](https://user-images.githubusercontent.com/39453720/46592207-7d255200-cafb-11e8-9650-562a330b22be.png)
-
-# Requirement
-
-# Usage
