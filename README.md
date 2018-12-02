@@ -21,5 +21,8 @@
 ┣ create_model_cifar10.ipynb … 画像分類モデル（CNN）の作成プログラム  
 ┗ image_quiz.ipynb … クイズゲーム用プログラム（メイン）  
 
+# About Model（Learning Model）
+![model_image_quiz](https://user-images.githubusercontent.com/39453720/49335179-06549300-f62c-11e8-8c7c-ea64f4d2c146.png)
+
 # Capture
 ![image_quiz](https://user-images.githubusercontent.com/39453720/46592207-7d255200-cafb-11e8-9650-562a330b22be.png)
